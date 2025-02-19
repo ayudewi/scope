@@ -18,4 +18,4 @@ Notes:
 </br>
 
 <h3> License</h3>
-CC-By Attribution 4.0 International
+<a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC-By Attribution 4.0 International</a>
