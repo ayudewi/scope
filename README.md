@@ -8,7 +8,7 @@ This repository is to share data and code for creating all 4 figures.
 <li>To create all figures, file name is: fulldata_20250219.xlsx </li>
 
 <h4>Code</h4>
-<li>Code for evidence gap map 1, evidence gap map 2, and author stated effect: scope_revise2025.qmd </li>
+<li>Code for evidence gap maps and author stated effect: scope_revise2025.qmd </li>
 <li>Code for discpline figures remain the same only change the data file to: full_data_20250219.xlsx</li>
 
 <br>
